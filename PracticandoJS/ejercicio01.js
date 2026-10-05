@@ -44,3 +44,4 @@ const item5 = document.createElement("li");
 item5.textContent = "Con un pico";
 lista.appendChild(item5);
 document.body.appendChild(lista);
+
